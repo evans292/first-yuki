@@ -1,3 +1,13 @@
+<?php
+session_start();
+if(!isset($_SESSION['nama']))
+{
+  die("Anda Belum Login");
+}
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 

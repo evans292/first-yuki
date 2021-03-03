@@ -39,7 +39,7 @@
                   <div class="text-center">
                     <h1 class="h4 text-gray-900 mb-4">Registrasi</h1><h2>Aplikasi Pengaduan Masyarakat</h2>
                   </div>
-                  <form class="user" method="post" action="cek_login.php">
+                  <form class="user" method="post" action="simpan_masyarakat.php">
                     <div class="form-group">
                       <input type="text" name="nik" class="form-control form-control-user" placeholder="NIK">
                     </div>
